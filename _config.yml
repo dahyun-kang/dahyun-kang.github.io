@@ -239,8 +239,8 @@ display_tags: ['research', 'formatting', 'images', 'links', 'math', 'code'] # th
 
 scholar:
 
-  last_name: Hwang
-  first_name: [Sehyun, H.]
+  last_name: Kang
+  first_name: [Dahyun]
 
   style: apa
   locale: en
