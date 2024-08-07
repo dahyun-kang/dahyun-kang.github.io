@@ -1,9 +1,9 @@
 ---
 layout: post
-start_end: "Mar, 2024 - Present"
+start_end: "July, 2022 - December, 2022"
 inline: true
 ---
 
-[University of Tübingen](https://uni-tuebingen.de/en/), Tübingen, Germany \
-*Visiting Researcher*
-- Mentor: Prof. Seongjoon Oh
+[Meta](https://meta.com), London, UK \
+*Research Scientist Intern*
+- Manager: Naila Murray
