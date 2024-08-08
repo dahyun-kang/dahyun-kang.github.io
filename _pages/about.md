@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic_ein.jpg
+  image: false
   image_cicular: false # crops the image to make it circular
   address: >
 
@@ -19,3 +19,4 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hi! I am a Ph.D. student at POSTECH under the supervision of professor Minsu Cho. My research lies in the areas of computer vision and deep learning, especially in the problems of learning with minimal supervisions and learning to discover image relations.
+My name is pronounced as *DAH-yon* 

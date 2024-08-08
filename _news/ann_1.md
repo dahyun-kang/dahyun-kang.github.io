@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-06-27 15:59:00-0400
+date: 2022-06-03 
 inline: true
 ---
 
-📩 A paper on weakly supervised learning for semantic boundary detection is accepted to [IJCV](https://www.springer.com/journal/11263).
+I started my research internship at Meta @ Paris ! 
