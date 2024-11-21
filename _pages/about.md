@@ -18,5 +18,6 @@ honors: true # includes a list of experience items
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a PhD student at POSTECH under the supervision of professor Minsu Cho. My research lies in the areas of computer vision and deep learning, especially in the problems of learning with minimal supervisions and learning to discover image relations.
-My name is pronounced as *DAH-yon*.
+Hi! I am a PhD student at POSTECH under the supervision of Minsu Cho. My research lies in the areas of computer vision and deep learning, especially in the problems of learning with minimal supervisions and learning to discover image relations.
+Name pronunciation: *DAH-yon*.
+Pronouns: She/Her.
