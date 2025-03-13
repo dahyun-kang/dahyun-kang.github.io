@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-06-03 
+date: 2025-02-27
 inline: true
 ---
 
-I started my research internship at Meta @ Paris ! 
+DINOv2 + text encoder model is accepted to [CVPR](https://cvpr.thecvf.com).
