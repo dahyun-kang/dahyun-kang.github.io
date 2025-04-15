@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-02-27
+date: 2025-02-28
 inline: true
 ---
 
-DINOv2+text is accepted to [CVPR](https://cvpr.thecvf.com).
+MML is accepted to [TMLR](https://openreview.net/pdf?id=DcIW0idrg8).
