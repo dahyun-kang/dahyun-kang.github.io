@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-02-27
+date: 2025-05-24
 inline: true
 ---
 
-DINOv2+text is accepted to [CVPR](https://cvpr.thecvf.com).
+I will present two workshop papers in [CVPR 2025](https://sites.google.com/stanford.edu/visual-concepts-workshops/home).
