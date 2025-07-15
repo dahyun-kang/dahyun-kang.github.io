@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-05-24
+date: 2025-06-26
 inline: true
 ---
 
-I will present two workshop papers in [CVPR 2025](https://sites.google.com/stanford.edu/visual-concepts-workshops/home).
+A paper on pattern detection is accepted to [ICCV 2025](https://iccv.thecvf.com).
