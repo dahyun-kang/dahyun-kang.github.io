@@ -18,6 +18,6 @@ honors: true # includes a list of experience items
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a PhD student at POSTECH under the supervision of Minsu Cho. My research lies in the areas of computer vision and deep learning, especially in the problems of learning with minimal supervisions and multi-modality learning such as vision-language problems.
-Name pronunciation: *DAH-yon*.
-Pronouns: Ms/She/Her.
+Hello! My name is Dahyun (pronounced as _DAH-ion_).
+
+I am a research scientist at Google DeepMind in France, working on a broad range of visual and physical understanding. I completed my Ph.D. with Minsu Cho at POSTECH Computer Vision Lab where I worked on minimally supervised learning for visual recognition and segmentation. Prior to that, I obtained my undergraduate degree from the Computer Science and Engineering department, POSTECH.
